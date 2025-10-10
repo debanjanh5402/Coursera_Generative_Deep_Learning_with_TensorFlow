@@ -1,1 +1,1 @@
-# Generative_Deep_Learning_with_TensorFlow
+# Coursera: Generative Deep Learning with TensorFlow
